@@ -45,5 +45,3 @@ Name: Bandaru Vijaya Lakshmi Satya Tulasi
 Email: vijayabandaru879@gmail.com
 
 GitHub: github.com/bandaruVijaya
-
-LinkedIn: 
